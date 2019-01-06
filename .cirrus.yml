@@ -5,4 +5,4 @@ test_task:
   node_modules_cache:
     folder: node_modules
   script: npm start
-  test_script: test
+  test_script: npm start
